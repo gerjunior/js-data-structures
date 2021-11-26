@@ -1,4 +1,4 @@
-import { Node } from './node'
+import { Node } from '../common/node'
 
 export class LinkedList {
   constructor(value) {
